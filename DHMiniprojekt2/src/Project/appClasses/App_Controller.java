@@ -96,8 +96,7 @@ public class App_Controller extends Controller<App_Model, App_View> {
 				} catch (ParseException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
-				}
-			});
+				}});
 	        
 	        
 	     
