@@ -2,7 +2,7 @@
   -fx-font-size: 24px;
   -fx-font-weight: bold;
   -fx-font-style: italic;
-  -fx-text-fill: #008080;
+  -fx-text-fill: #00FFFF;
 	-fx-border-insets: 5px;
 	-fx-border-color: black;
 	-fx-border-width: 2px;
@@ -18,6 +18,6 @@
 .menu .label {
   -fx-font-size: 12px;
   -fx-font-weight: bold;
-  -fx-text-fill: #800080;
+  -fx-text-fill: #0000FF;
   -fx-border-width: 0px;
 }

@@ -1,10 +1,10 @@
-package Miniprojekt2;
+package Project;
 
 import java.util.Locale;
 import java.util.logging.Logger;
 
-import Miniprojekt2.commonClasses.Configuration;
-import Miniprojekt2.commonClasses.Translator;
+import Project.commonClasses.Configuration;
+import Project.commonClasses.Translator;
 
 /**
  * Copyright 2015, FHNW, Prof. Dr. Brad Richards. All rights reserved. This code

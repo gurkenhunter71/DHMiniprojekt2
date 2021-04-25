@@ -1,11 +1,11 @@
-package Miniprojekt2.commonClasses;
+package Project.commonClasses;
 
 import java.util.Locale;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 import java.util.logging.Logger;
 
-import Miniprojekt2.ServiceLocator;
+import Project.ServiceLocator;
 
 public class Translator {
     private ServiceLocator sl = ServiceLocator.getServiceLocator();

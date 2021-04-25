@@ -1,11 +1,11 @@
-package Miniprojekt2;
+package Project;
 
-import Miniprojekt2.appClasses.App_Controller;
-import Miniprojekt2.appClasses.App_Model;
-import Miniprojekt2.appClasses.App_View;
-import Miniprojekt2.splashScreen.Splash_Controller;
-import Miniprojekt2.splashScreen.Splash_Model;
-import Miniprojekt2.splashScreen.Splash_View;
+import Project.appClasses.App_Controller;
+import Project.appClasses.App_Model;
+import Project.appClasses.App_View;
+import Project.splashScreen.Splash_Controller;
+import Project.splashScreen.Splash_Model;
+import Project.splashScreen.Splash_View;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.stage.Stage;

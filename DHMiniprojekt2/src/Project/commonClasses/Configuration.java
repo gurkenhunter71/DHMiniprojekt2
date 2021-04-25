@@ -1,4 +1,4 @@
-package Miniprojekt2.commonClasses;
+package Project.commonClasses;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -9,7 +9,7 @@ import java.util.Enumeration;
 import java.util.Properties;
 import java.util.logging.Logger;
 
-import Miniprojekt2.ServiceLocator;
+import Project.ServiceLocator;
 
 /**
  * Copyright 2015, FHNW, Prof. Dr. Brad Richards. All rights reserved. This code
